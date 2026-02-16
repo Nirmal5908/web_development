@@ -1,0 +1,50 @@
+h1 {
+    color: red;
+    background-color:#ffff00;
+    text-align: center;
+    text-decoration: wavy underline;
+}
+p {
+    color: red;
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 30px; 
+    letter-spacing: 2px;
+}
+button {
+    color: gold;
+    background-color: #ff00ff;f
+    border: solid; 
+}
+a {
+    text-decoration: none;
+}
+div>p  
+{
+color: aqua;
+}
+p:hover{
+text-decoration: line-through;
+}
+p:active{
+    font-weight: 700;
+    font-size: medium;
+}
+p::first-letter{
+    color: #ff00ff;
+    font-weight: bold ;
+} */
+ /* *{
+    font-family: 'Courier New';
+ }
+ h1{
+    color: #1b74e4 !;
+ }
+ #searchbtn{
+    color: white;
+    background-color: black;
+ }
+ .userbtn{
+    background-color: aqua;
+ }
